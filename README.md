@@ -1,7 +1,46 @@
 ### Hi there 👋
 
+Curriculo
+
+ _Nome_: Virgilio Rossetti Junior
+
+ _cidade_: Londrina
+
+ _idade_: 21
+ 
+ _Rua_: São Jeronimo
+ 
+ _CNH_: B
+ 
+ _Email_: virgiliorossetti@edu.unifil.br
+ 
+ _Cargo pretendido_: Full Stack
+ ## Formação Academica  <h2>
+
+   ##### _ensino medio concluido, cursando superior na unifil_ <h5>
+  
+  ## Cursos Complementares <h2>
+  
+  _Curso de segurança de dados Cebrac_
+ 
+  _Ingles Basico cultural_
+  
+  _Curso de Ti Senai Incompleto_
+  
+ ### Experiencia <h2>
+  
+  _Tenho experiencia com as linguagem de java script, Phyton e C#_
+
+
 <!--
-**Virgilio-rossetti/Virgilio-Rossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Virgilio-rossetti/Virgilio-Rossetti** 
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
